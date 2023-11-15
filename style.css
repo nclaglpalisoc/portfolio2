@@ -3,17 +3,18 @@
 
 }
 #srh{
-    left: 1500px;
+    bottom: 38px;
+    left: 1100px;
     position: absolute;
 }
 .navbar{
     background: #FFDB58;
 }
 .nav-item{
-    font-size: 30px;
-    left: 100px;
+    font-size: 20px;
+    left: 50px;
     position: relative;
-   padding-left: 100px;
+   padding-left: 80px;
 }
 .cont{
     width: 100%;
@@ -26,47 +27,47 @@
     margin-left: 60px;
 }
 .buboy{
-    width: 130px;
+    width: 100px;
 }
 .cdp{
-    bottom: 470px;
-    left: 920px;
+    bottom: 370px;
+    left: 750px;
     position: absolute;
-    font-size: 48px;
+    font-size: 38px;
     font-style: italic;
     color: #FFFFFF;
 }
 .bold{
-    bottom: 310px;
-    left:840px;
+    bottom: 230px;
+    left:730px;
     position: absolute;
-    font-size: 25px;
+    font-size: 20px;
     font-style: italic;
     color: #FFFFFF;
 
 }
 .webs{
-    bottom: 476px;
+    bottom: 376px;
     position: absolute;
-    left: 780px;
-    width: 779px;
+    left: 650px;
+    width: 650px;
 } 
 .pro{
-    bottom: 245px;
-    width: 872px;
+    top: 113px;
+    width: 772px;
     position: absolute;
 
 }
 .bars{
     padding-left: 200px;
     position: absolute;
-    bottom: 389px;
-    left: 1330px;
-    width: 550px;
+    bottom: 470px;
+    left: 1030px;
+    width: 380px;
 }
 #ctu{
-    top: 658px;
-    left:950px;
+    top: 558px;
+    left:800px;
     position: absolute;
     width: 150px;
     background-color: #FFDB58;
@@ -74,8 +75,8 @@
 
 }
 #lrm{
-    top: 658px;
-    left:1135px;
+    top: 558px;
+    left:1000px;
     position: absolute;
     width: 150px;
     color: blue;
@@ -83,31 +84,31 @@
 .g7{
     left: 2px;
     position: absolute;
-    width: 1900px;
-    top: 710px;
+    width: 1421px;
+    top: 862px;
 }
 .g8{
-    top: 800px;
+    top: 750px;
     position: absolute;
-    left: 350px;
+    left: 150px;
     width: 1200px;
 }
 .cp{
     position: absolute;
-    width: 1200px;
-    bottom: -780px;
-    left: 345px;
+    width: 1000px;
+    bottom: -850px;
+    left: 195px;
 }
 .g9{
     position: absolute;
     width: 1000px;
-    top: 1740px;
-    left: 450px;
+    top: 1626px;
+    left: 220px;
 } 
 .codes{
-    height: 1700px;
+    height: 1750px;
     position: absolute;
-    width: 1900px;
-    top: 1740px;
+    width: 1422px;
+    top: 1630px;
 
 }
