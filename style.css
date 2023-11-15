@@ -1,0 +1,113 @@
+#heros{
+    position: relative;
+
+}
+#srh{
+    left: 1500px;
+    position: absolute;
+}
+.navbar{
+    background: #FFDB58;
+}
+.nav-item{
+    font-size: 30px;
+    left: 100px;
+    position: relative;
+   padding-left: 100px;
+}
+.cont{
+    width: 100%;
+
+}
+.body{
+    background: #719898;
+}
+.nav-item{
+    margin-left: 60px;
+}
+.buboy{
+    width: 130px;
+}
+.cdp{
+    bottom: 470px;
+    left: 920px;
+    position: absolute;
+    font-size: 48px;
+    font-style: italic;
+    color: #FFFFFF;
+}
+.bold{
+    bottom: 310px;
+    left:840px;
+    position: absolute;
+    font-size: 25px;
+    font-style: italic;
+    color: #FFFFFF;
+
+}
+.webs{
+    bottom: 476px;
+    position: absolute;
+    left: 780px;
+    width: 779px;
+} 
+.pro{
+    bottom: 245px;
+    width: 872px;
+    position: absolute;
+
+}
+.bars{
+    padding-left: 200px;
+    position: absolute;
+    bottom: 389px;
+    left: 1330px;
+    width: 550px;
+}
+#ctu{
+    top: 658px;
+    left:950px;
+    position: absolute;
+    width: 150px;
+    background-color: #FFDB58;
+    color: #000000;
+
+}
+#lrm{
+    top: 658px;
+    left:1135px;
+    position: absolute;
+    width: 150px;
+    color: blue;
+}
+.g7{
+    left: 2px;
+    position: absolute;
+    width: 1900px;
+    top: 710px;
+}
+.g8{
+    top: 800px;
+    position: absolute;
+    left: 350px;
+    width: 1200px;
+}
+.cp{
+    position: absolute;
+    width: 1200px;
+    bottom: -780px;
+    left: 345px;
+}
+.g9{
+    position: absolute;
+    width: 1000px;
+    top: 1740px;
+    left: 450px;
+} 
+.codes{
+    height: 1700px;
+    position: absolute;
+    width: 1900px;
+    top: 1740px;
+
+}
